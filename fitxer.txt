@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hago otro cambio en el fitxer desde la rama master
+=======
+hola, he añadido este texto en el fitxer en la branch1
+>>>>>>> branch1
